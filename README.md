@@ -1,2 +1,2 @@
 # TCP Chatroom
-Web socket 
+Python, web socket 
